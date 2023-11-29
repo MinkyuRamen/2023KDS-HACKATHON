@@ -1,4 +1,0 @@
-patsy-0.5.3
-statsmodels-0.14.0
-pandas-2.0.3
-numpy-1.25.0
