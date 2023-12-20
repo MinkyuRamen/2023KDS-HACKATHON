@@ -1,5 +1,5 @@
 # K-데이터사이언스 컨퍼런스 해커톤 [팀 박장대소]
-## Augmentation is All You Need : SDE를 활용한 전국 학령인구 예측
+## Augmentation is All You Need ! : SDE를 활용한 전국 학령인구 예측
 
 2023/11/28~29 (2days)
 
